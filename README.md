@@ -6,7 +6,7 @@ This server was written by Sam King from UC Davis and is actively maintained by 
 # Quickstart
 To compile and run the server, open a terminal and execute the following commands:
 ```bash
-$ git clone https://github.com/kingst/gunrock_web.git
+$ git clone https://github.com/donaldchan10/Gunrock-Multithreaded-Web-Server.git
 $ cd gunrock_web
 $ make
 $ ./gunrock_web
